@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Sadik.
 - 👀 I’m interested in technology.
 - 🌱 I’m currently learning some programming languages.
-- 📫 How to reach me ?
--Ans.: E-mail: formywebhost01@gmail.com
+- 📫 How to reach me ? <br>
+-Ans.: E-mail: formywebhost01@gmail.com <br>
        Telegram: User: @sadik_0n
 
 <!---
