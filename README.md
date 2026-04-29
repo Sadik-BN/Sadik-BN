@@ -43,8 +43,8 @@ Hey! I'm Sadik, a Computer Science student from Bangladesh passionate about web 
 
 ---
 
-<div align="center">
+<p align="center">
+  
+  <img src="https://readme-stats-github.pages.dev/api/typing?lines=Thanks%20for%20visiting%20!;%20Drop%20a%20%E2%AD%90%20%20!;If%20you%20like%20any%20of%20my%20projects%20!&theme=dark&color=%23e5a50a&particleColor=%233d3846&background=%23c64600"/>
 
-*Thanks for visiting! Drop a ⭐ if you like any of my projects.*
-
-</div>
+</p>
