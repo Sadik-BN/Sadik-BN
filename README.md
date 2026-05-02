@@ -35,9 +35,9 @@ Hey! I'm Sadik, a Computer Science student from Bangladesh passionate about web 
 # 📊 GitHub Stats:
 <div align="center">
   
-![](https://github-readme-stats.shion.dev/api?username=Sadik-BN&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=Sadik-BN&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
 [![](https://streak-stats.demolab.com/?user=Sadik-BN&theme=blueberry&hide_border=false)](https://streak-stats.demolab.com/?user=Sadik-BN&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sadik-BN&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sadik-BN&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
