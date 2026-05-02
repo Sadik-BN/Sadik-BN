@@ -53,7 +53,7 @@ Hey! I'm Sadik, a Computer Science student from Bangladesh passionate about web 
 
 <div align="center">
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHFkeDNudzJnMXFrNmxxdGxmc2o5bHRmcmprcnlvNXFyempiMXRiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A5OPIlNp8fHQbATsvC/giphy.gif" width="100%" height="200px" alt="The End"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjEwbjBnamJhdWZ1c21vcHlpMmh6dmZ6OW5obm0yN29xd29tbjFvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/61WLZ3iUfQF57UwWZ5/giphy.gif" width="100%" alt="The End"/>
 
 </div>
 
