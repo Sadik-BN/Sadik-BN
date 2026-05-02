@@ -48,3 +48,12 @@ Hey! I'm Sadik, a Computer Science student from Bangladesh passionate about web 
   <img src="https://readme-stats-github.pages.dev/api/typing?lines=Thanks%20for%20visiting%20!;%20Drop%20a%20%E2%AD%90%20%20!;If%20you%20like%20any%20of%20my%20projects%20!&theme=dark&color=%23e5a50a&particleColor=%233d3846&background=%23c64600"/>
 
 </p>
+
+---
+
+<div align="center">
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHFkeDNudzJnMXFrNmxxdGxmc2o5bHRmcmprcnlvNXFyempiMXRiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A5OPIlNp8fHQbATsvC/giphy.gif" width="100%" height="200px" alt="The End"/>
+
+</div>
+
